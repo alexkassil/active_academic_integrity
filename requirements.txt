@@ -2,3 +2,6 @@
 gspread==3.6.0
 # gspread-formatting
 gspread-formatting==0.3.0
+
+# date parsing for timestamps
+python-dateutil==2.8.1
