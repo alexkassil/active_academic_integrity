@@ -1,2 +1,5 @@
 # No student data leakage
 .csv
+
+# python stuff
+__pycache__
