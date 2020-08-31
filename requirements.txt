@@ -1,0 +1,4 @@
+# gspread
+gspread==3.6.0
+# gspread-formatting
+gspread-formatting==0.3.0
